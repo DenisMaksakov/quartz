@@ -2,7 +2,7 @@
 title: Data Engineering
 ---
 
-# Data Engineering Lab
+# Data Engineering
 
 ```text
 data-engineering/
