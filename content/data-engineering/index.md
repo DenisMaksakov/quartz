@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering Lab"
+title: Data Engineering
 ---
 
 # Data Engineering Lab
@@ -7,7 +7,6 @@ title: "Data Engineering Lab"
 ```text
 data-engineering/
 ├── index.md                      # Главная страница модуля
-├── _templates/                   # Шаблоны заметок
 ├── 00-overview/                  # Обзор и введение
 │   ├── index.md                  # Обзор Data Engineering
 │   ├── roadmap.md                # Карта обучения

@@ -1,7 +1,9 @@
 ---
-title: "OLTP vs OLAP: ключевые различия, определения и примеры"
+title: OLTP vs OLAP
 date: 2025-12-23
-tags: [OLTP, OLAP]
+tags:
+  - OLTP
+  - OLAP
 draft: false
 ---
 

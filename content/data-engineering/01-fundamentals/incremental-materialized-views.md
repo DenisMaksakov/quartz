@@ -1,5 +1,5 @@
 ---
-title: Инкрементальные материализованные представления
+title: Incremental Materialized Views
 date: 2025-12-24
 tags:
   - OLAP
